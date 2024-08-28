@@ -1,0 +1,19 @@
+{
+  "estudantes": [
+    {
+      "nome": "Gabryell",
+      "idade": 18,
+      "curso": "Ed. Fisica"
+    },
+    {
+      "nome": "AugustoPerfeito",
+      "idade": 25,
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Falconi",
+      "idade": 25,
+      "curso": "ADS"
+    }
+  ]
+}
