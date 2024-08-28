@@ -10,7 +10,6 @@ const AddEstudantes = () => {
   const conteudo = fs.readFileSync('dados.json', 'utf8');
   const dadosExistentes = JSON.parse(conteudo);
 
-
   newEstudantes.map((estudante) => {
     dadosExistentes.estudantes.push(estudante);
   })
